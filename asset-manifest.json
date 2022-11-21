@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dall-e-playground/static/css/main.f6187db0.css",
+    "main.js": "/Dall-e-playground/static/js/main.5f1aea2e.js",
+    "static/js/787.69d9f578.chunk.js": "/Dall-e-playground/static/js/787.69d9f578.chunk.js",
+    "index.html": "/Dall-e-playground/index.html",
+    "main.f6187db0.css.map": "/Dall-e-playground/static/css/main.f6187db0.css.map",
+    "main.5f1aea2e.js.map": "/Dall-e-playground/static/js/main.5f1aea2e.js.map",
+    "787.69d9f578.chunk.js.map": "/Dall-e-playground/static/js/787.69d9f578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6187db0.css",
+    "static/js/main.5f1aea2e.js"
+  ]
+}
